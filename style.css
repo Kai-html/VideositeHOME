@@ -4,14 +4,16 @@
         color:blue;
     }
     pre{
-    border-bottom: 80px solid mediumseagreen;
-    border-top:80px ridge mediumseagreen;
-    border-left: 80px mediumseagreen;
-    border-right: 80px mediumseagreen;
+        border-bottom: 80px solid mediumseagreen;
+        border-top:80px ridge mediumseagreen;
+        border-left: 80px mediumseagreen;
+        border-right: 80px mediumseagreen;
     }
     body{
-    background-color: lightgrey;
-    border-right: 30px mediumseagreen;
+        background-color: lightgrey;
+        border-right: 30px mediumseagreen;
+        margin: 0;
+        padding: 0;
     }
     .h1{
         color:black;
